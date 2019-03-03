@@ -8,7 +8,7 @@
 
 ###Summary
 
-I want to start a career as a junior frontend developer. I'm a fast learner, highly motuvated and energetic. I have the ability to work on my own with minimum supervision.
+I want to start a career as a junior frontend developer. I'm a fast learner, highly motivated and energetic. I have the ability to work on my own with minimum supervision.
 
 ###Skills
 
