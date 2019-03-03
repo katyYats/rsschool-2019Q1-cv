@@ -12,6 +12,7 @@ Skills
 HTML5, CSS3, initial JS
 
 Work experience
+june 2017 - november 2017
 ООО "Скул бук" верстальщик
 
 Education
