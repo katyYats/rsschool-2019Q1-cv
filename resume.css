@@ -48,7 +48,87 @@ table
 
 /* End reset CSS */
 
-body {
-    width: 1024px;
+.container {
+    width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 0 5px 2px rgba(11, 6, 5, .5);
+}
+.container h1, .container h3 {
+    font-family: 'Cinzel', serif;
+}
+header .profile h1 {
+    font-size: 40px;
+    display: inline-block;
+    position: relative;
+    top: -160px;
+    left: 20px;
+}
+header .contacts {
+    margin-top: -8px;
+}
+header .contacts h3 {
+    color: #132104;
+    font-size: 32px;
+    width: 180px;
+    display: inline-block;
+    position: relative;
+    top: -50px;
+    padding-left: 20px;
+}
+header .contacts ul {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 1.4;
+    width: 380px;
+    padding-left: 20px;
+    background-color: #b2b8bf;
+}
+header .contacts ul h4 {
+    color: #323232;
+}
+header .contacts ul p {
+    color: #e0e0e0;
+}
+main {
+    width: 600px;
     margin: 0 auto;
+}
+main .summary, main .skills, main .experience, main .education, main .add-education, main .english {
+    background-color: #b2b8bf;
+} 
+main .summary h3, main .skills h3, main .experience h3, main .education h3, main .add-education h3, main .english h3 {
+    font-size: 32px;
+    text-align: center;
+    background-color: white;
+    border-top: 1px solid black;
+    padding: 8px 0;
+}
+main .summary p, main .skills ul, main .experience p, main .education p, main .add-education p, main .english p {
+    color: white;
+    padding: 8px;
+    line-height: 1.2;
+}
+main .skills, main .experience {
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+}
+main .experience {
+    width: 299px;
+    height: 122px;
+    border-left: 1px solid black; 
+}
+main .education, main .add-education, main .english {
+    display: inline-block;
+    width: 200px;
+    height: 270px;
+    vertical-align: top;
+    border-top: 1px solid black;
+}
+main .add-education, main .english {
+    width: 199px;
+    border-left: 1px solid black;
+} 
+main .education h3, main .add-education h3, main .english h3 {
+    height: 65px;
 }
